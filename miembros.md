@@ -17,4 +17,3 @@
 * Vision
 * Wasp
 * Antman
-* Capitana Marvel
